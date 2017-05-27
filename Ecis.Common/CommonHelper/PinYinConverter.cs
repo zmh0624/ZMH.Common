@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 #endregion
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     public class PinYinConverter
     {

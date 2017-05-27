@@ -1,11 +1,11 @@
 ﻿using System;
 
-namespace Ecis.Common.Exceptions.Custom
+namespace ZMH.Common.Exceptions.Custom
 {
     [Serializable]
     public class EcisIOException : EcisExceptionBase
     {
-        protected static string titleMsg = Ecis.Common.Exceptions.Properties.Resources.IOTitleMsg;
+        protected static string titleMsg = ZMH.Common.Exceptions.Properties.Resources.IOTitleMsg;
 
         public EcisIOException()
         {

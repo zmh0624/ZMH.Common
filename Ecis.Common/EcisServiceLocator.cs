@@ -1,6 +1,6 @@
 ﻿using Microsoft.Practices.ServiceLocation;
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     public static class EcisServiceLocator
     {

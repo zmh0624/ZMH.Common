@@ -7,7 +7,7 @@ using System.Text;
 
 #endregion
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     public static class OleDbProviderHelper
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
 
-namespace Ecis.Common.Extension
+namespace ZMH.Common.Extension
 {
     /// <summary>
     /// 枚举类型帮助类

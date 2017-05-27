@@ -1,4 +1,4 @@
-﻿using Ecis.Common.Exceptions;
+﻿using ZMH.Common.Exceptions;
 using FastMember;
 using System;
 using System.Collections;
@@ -12,7 +12,7 @@ using System.Reflection;
 using System.Text;
 using System.Xml;
 
-namespace Ecis.Common.Extension
+namespace ZMH.Common.Extension
 {
     public static class DataTableExtension
     {

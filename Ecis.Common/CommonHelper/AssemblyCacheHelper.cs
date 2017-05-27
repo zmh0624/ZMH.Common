@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading;
 using System.Web.Services.Description;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     /// <summary>
     /// Cache helper class for Assembly and Type

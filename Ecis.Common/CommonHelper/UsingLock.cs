@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     /// <summary>
     /// 使用using代替lock操作的对象,可指定写入和读取锁定模式

@@ -1,9 +1,9 @@
-﻿using Ecis.Common.Exceptions;
+﻿using ZMH.Common.Exceptions;
 using System;
 using System.IO;
 using System.Windows.Forms;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     public static class ExportHelp
     {

@@ -1,12 +1,12 @@
-﻿using Ecis.Common.CommonHelper;
-using Ecis.Common.Exceptions;
+﻿using ZMH.Common.CommonHelper;
+using ZMH.Common.Exceptions;
 using FastMember;
 using System;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Web;
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     /// <summary>
     /// Common缓存管理

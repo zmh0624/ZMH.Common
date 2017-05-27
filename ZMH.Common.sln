@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecis.Common", "Ecis.Common\Ecis.Common.csproj", "{F596345C-2454-4D6B-A08C-17F272827417}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZMH.Common", "Ecis.Common\ZMH.Common.csproj", "{F596345C-2454-4D6B-A08C-17F272827417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecis.Common.Exceptions", "Ecis.Common.Exceptions\Ecis.Common.Exceptions.csproj", "{DF8C89C2-2A08-4449-A152-73E74ED0262A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZMH.Common.Exceptions", "Ecis.Common.Exceptions\ZMH.Common.Exceptions.csproj", "{DF8C89C2-2A08-4449-A152-73E74ED0262A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

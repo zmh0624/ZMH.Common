@@ -1,4 +1,4 @@
-﻿namespace Ecis.Common.Exceptions
+﻿namespace ZMH.Common.Exceptions
 {
     /// <summary>
     /// 错误级别

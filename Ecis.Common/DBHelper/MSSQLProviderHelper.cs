@@ -9,7 +9,7 @@ using System.Text;
 
 #endregion
 
-namespace Ecis.Common.DBHelper
+namespace ZMH.Common.DBHelper
 {
     public static class MSSQLProviderHelper
     {

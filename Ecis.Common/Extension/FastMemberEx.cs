@@ -2,7 +2,7 @@
 using System;
 using System.Linq.Expressions;
 
-namespace Ecis.Common.Extension
+namespace ZMH.Common.Extension
 {
     public static class FastMemberEx
     {

@@ -5,7 +5,7 @@ using System.Data;
 
 #endregion
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     public interface IQueryParameter
     {

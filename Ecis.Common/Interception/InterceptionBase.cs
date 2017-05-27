@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Ecis.Common.Interception
+namespace ZMH.Common.Interception
 {
     public abstract class InterceptionBase : IInterceptionBehavior
     {

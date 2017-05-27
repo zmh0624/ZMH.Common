@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     public static class LicenseHelper
     {

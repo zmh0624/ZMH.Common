@@ -1,8 +1,8 @@
-﻿using Ecis.Common.Extension;
+﻿using ZMH.Common.Extension;
 using System;
 using System.Diagnostics;
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     public class CodeTimer : IDisposable
     {

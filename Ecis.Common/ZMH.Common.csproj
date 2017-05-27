@@ -7,8 +7,8 @@
     <ProjectGuid>{F596345C-2454-4D6B-A08C-17F272827417}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ecis.Common</RootNamespace>
-    <AssemblyName>Ecis.Common</AssemblyName>
+    <RootNamespace>ZMH.Common</RootNamespace>
+    <AssemblyName>ZMH.Common</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
@@ -160,9 +160,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ecis.Common.Exceptions\Ecis.Common.Exceptions.csproj">
+    <ProjectReference Include="..\Ecis.Common.Exceptions\ZMH.Common.Exceptions.csproj">
       <Project>{df8c89c2-2a08-4449-a152-73e74ed0262a}</Project>
-      <Name>Ecis.Common.Exceptions</Name>
+      <Name>ZMH.Common.Exceptions</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

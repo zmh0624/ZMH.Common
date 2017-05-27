@@ -1,7 +1,7 @@
 ﻿using NLog;
 using System;
 
-namespace Ecis.Common.Exceptions
+namespace ZMH.Common.Exceptions
 {
     public class LogExcept
     {

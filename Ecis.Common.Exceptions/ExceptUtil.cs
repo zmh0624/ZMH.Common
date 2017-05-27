@@ -1,8 +1,8 @@
-﻿using Ecis.Common.Exceptions.Custom;
+﻿using ZMH.Common.Exceptions.Custom;
 using System;
 using System.Linq.Expressions;
 
-namespace Ecis.Common.Exceptions
+namespace ZMH.Common.Exceptions
 {
     public class ExceptUtil
     {

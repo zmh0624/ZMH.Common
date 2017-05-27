@@ -7,7 +7,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Web;
 using System.Web.Services.Protocols;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     /// <summary>
     /// 动态生成WebService程序集,并可调用

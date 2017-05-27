@@ -7,8 +7,8 @@
     <ProjectGuid>{DF8C89C2-2A08-4449-A152-73E74ED0262A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ecis.Common.Exceptions</RootNamespace>
-    <AssemblyName>Ecis.Common.Exceptions</AssemblyName>
+    <RootNamespace>ZMH.Common.Exceptions</RootNamespace>
+    <AssemblyName>ZMH.Common.Exceptions</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

@@ -1,6 +1,6 @@
 using System;
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     /// <summary>
     /// ApplicationIdleTimer provides a convenient way of

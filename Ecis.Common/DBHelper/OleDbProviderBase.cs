@@ -7,7 +7,7 @@ using System.Data.OleDb;
 
 #endregion
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     public class OleDbProviderBase
     {

@@ -1,4 +1,4 @@
-﻿namespace Ecis.Common.Exceptions
+﻿namespace ZMH.Common.Exceptions
 {
     public class ErrorCodeContract
     {

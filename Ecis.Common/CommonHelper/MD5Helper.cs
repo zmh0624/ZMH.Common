@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     public static class MD5Helper
     {

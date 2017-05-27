@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     /// <summary>
     /// Generic singleton pattern implementation

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ecis.Common.Extension
+namespace ZMH.Common.Extension
 {
     /// <summary>
     /// Guid Extension

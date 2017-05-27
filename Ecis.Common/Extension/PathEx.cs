@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Ecis.Common.Extension
+namespace ZMH.Common.Extension
 {
     /// <summary>
     /// Path Extension

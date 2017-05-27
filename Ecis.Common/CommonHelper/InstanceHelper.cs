@@ -1,7 +1,7 @@
-﻿using Ecis.Common.Exceptions;
+﻿using ZMH.Common.Exceptions;
 using System;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     /// <summary>
     /// Create Instance Helper

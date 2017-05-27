@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ecis.Common.Exceptions
+namespace ZMH.Common.Exceptions
 {
     /// <summary>
     /// 参数异常

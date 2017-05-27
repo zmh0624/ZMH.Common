@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Ecis.Common.Exceptions
+namespace ZMH.Common.Exceptions
 {
     public class EcisPrintException : EcisException
     {

@@ -1,7 +1,7 @@
 ﻿using System.Configuration;
 using System.Drawing;
 
-namespace Ecis.Common.CommonHelper
+namespace ZMH.Common.CommonHelper
 {
     public class AppSettingCfg
     {

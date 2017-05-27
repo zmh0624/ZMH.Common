@@ -1,7 +1,7 @@
 ﻿#region
 
-using Ecis.Common.Exceptions;
-using Ecis.Common.Extension;
+using ZMH.Common.Exceptions;
+using ZMH.Common.Extension;
 using FastMember;
 using System;
 using System.Collections.Generic;
@@ -14,7 +14,7 @@ using System.Text;
 
 #endregion
 
-namespace Ecis.Common.DBHelper
+namespace ZMH.Common.DBHelper
 {
     public class MSSQLProviderBase
     {

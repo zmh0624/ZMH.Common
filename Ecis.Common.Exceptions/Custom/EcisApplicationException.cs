@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ecis.Common.Exceptions
+namespace ZMH.Common.Exceptions
 {
     /// <summary>
     /// 应用程序异常
@@ -8,7 +8,7 @@ namespace Ecis.Common.Exceptions
     [Serializable]
     public class EcisApplicationException : EcisExceptionBase
     {
-        protected static string titleMsg = Ecis.Common.Exceptions.Properties.Resources.AppTitleMsg;
+        protected static string titleMsg = ZMH.Common.Exceptions.Properties.Resources.AppTitleMsg;
 
         public EcisApplicationException()
         {

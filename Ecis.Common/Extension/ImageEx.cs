@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 
-namespace Ecis.Common.Extension
+namespace ZMH.Common.Extension
 {
     /// <summary>
     /// Image Base64 Extension

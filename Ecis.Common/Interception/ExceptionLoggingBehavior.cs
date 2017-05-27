@@ -1,7 +1,7 @@
 ﻿using Microsoft.Practices.Unity.InterceptionExtension;
 using System.Collections.Generic;
 
-namespace Ecis.Common.Interception
+namespace ZMH.Common.Interception
 {
     /// <summary>
     /// 错误日志拦截

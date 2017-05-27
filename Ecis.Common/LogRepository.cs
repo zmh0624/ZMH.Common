@@ -1,8 +1,8 @@
-﻿using Ecis.Common.Exceptions;
+﻿using ZMH.Common.Exceptions;
 using NLog;
 using System.Linq;
 
-namespace Ecis.Common
+namespace ZMH.Common
 {
     /// <summary>
     /// 日志实例
