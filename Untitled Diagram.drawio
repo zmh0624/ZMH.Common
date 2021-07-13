@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T05:43:46.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="zVugv8tF3CG7yanzqS0g" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T05:47:22.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="0WIAlXJ4QvaaC-45doE-" version="14.8.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -13,6 +13,14 @@
         <mxCell id="39150e848f15840c-5" value="Models" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Fejk4QI_jDKwbszipvCR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=115;exitPerimeter=0;fontSize=18;entryX=0;entryY=0;entryDx=0;entryDy=105;entryPerimeter=0;" edge="1" parent="1" source="Fejk4QI_jDKwbszipvCR-1" target="Fejk4QI_jDKwbszipvCR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fejk4QI_jDKwbszipvCR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=115;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=105;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="Fejk4QI_jDKwbszipvCR-1" target="Fejk4QI_jDKwbszipvCR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fejk4QI_jDKwbszipvCR-1" value="EDSS.Repositories" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="500" y="280" width="220" height="130" as="geometry" />
         </mxCell>
@@ -20,16 +28,19 @@
           <mxGeometry x="510" y="320" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fejk4QI_jDKwbszipvCR-3" value="EDSS.DataPlatform" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="500" y="610" width="220" height="130" as="geometry" />
+          <mxGeometry x="630" y="610" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Fejk4QI_jDKwbszipvCR-4" value="EDSS.APISource" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="500" y="450" width="220" height="130" as="geometry" />
+          <mxGeometry x="630" y="450" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Fejk4QI_jDKwbszipvCR-5" value="ModelsV2" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fejk4QI_jDKwbszipvCR-6" value="EDSS.RepositoryModel" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="490" width="180" height="60" as="geometry" />
+          <mxGeometry x="640" y="490" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fejk4QI_jDKwbszipvCR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=115;exitPerimeter=0;entryX=-0.003;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="Fejk4QI_jDKwbszipvCR-7" target="Fejk4QI_jDKwbszipvCR-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fejk4QI_jDKwbszipvCR-7" value="EDSS.Business" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="500" y="110" width="220" height="130" as="geometry" />
@@ -45,6 +56,12 @@
         </mxCell>
         <mxCell id="Fejk4QI_jDKwbszipvCR-13" value="现有Domain实体梳理" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="10" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fejk4QI_jDKwbszipvCR-15" value="EDSS.APISource" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Fejk4QI_jDKwbszipvCR-16" value="EDSS.RepositoryModel" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
