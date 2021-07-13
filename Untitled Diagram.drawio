@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T10:25:52.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Yc0uFQsOdi8P8fGqJ4vW" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T10:27:04.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="sZausFMyXWD_aIxoDW9K" version="14.8.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="2830" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
@@ -154,14 +154,23 @@
         <mxCell id="1vMFcK3D9edi9ke0OV0b-8" value="层级Domain有点多，合并？&lt;br style=&quot;font-size: 20px;&quot;&gt;标准接口的出参对象定义在那一层？" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;fontColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="-1080" y="140" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1vMFcK3D9edi9ke0OV0b-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;fontColor=#FF8000;" edge="1" parent="1">
+        <mxCell id="1vMFcK3D9edi9ke0OV0b-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;fontColor=#FF8000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fejk4QI_jDKwbszipvCR-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-420" y="1330" as="sourcePoint" />
+            <mxPoint x="-380" y="1320" as="sourcePoint" />
             <mxPoint x="-290" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1vMFcK3D9edi9ke0OV0b-12" value="标准接口入参" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-278" y="1314" width="130" height="30" as="geometry" />
+        <mxCell id="1vMFcK3D9edi9ke0OV0b-12" value="标准接口入参对象" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-278" y="1314" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vMFcK3D9edi9ke0OV0b-13" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fejk4QI_jDKwbszipvCR-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-410" y="1290" as="sourcePoint" />
+            <mxPoint x="-290" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vMFcK3D9edi9ke0OV0b-14" value="数据平台接口入参对象" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-278" y="1245" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
